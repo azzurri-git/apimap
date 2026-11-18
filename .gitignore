@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+!.env.*.example
+.vercel/
+node_modules/
+dist/
+build/
+npm-debug.log*
+.DS_Store
+Thumbs.db
